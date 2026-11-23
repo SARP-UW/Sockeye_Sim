@@ -49,8 +49,5 @@ print("Dry mass:", motor.dry_mass)
 print("Total impulse:", motor.total_impulse)
 print("Burn time:", motor.burn_duration)
 
-rocket, params = load_rocket_from_ork(
-    "sockeye_pdr.ork",
-    ork_jar="OpenRocket-23.09.jar",
-    motor=motor
-)
+# need to find a way to input .ork file 
+
