@@ -1,0 +1,22 @@
+Scenario,Quantity,RocketPy,OpenRocket,Difference (%)
+OR match: no wind,Apogee AGL (m),9598.464,9437.341,1.7
+OR match: no wind,Apogee time (s),42.797,40.305,6.2
+OR match: no wind,Max speed (m/s),564.262,666.476,-15.3
+OR match: no wind,Max Mach,1.644,1.963,-16.3
+OR match: no wind,Rail exit speed (m/s),21.556,27.561,-21.8
+OR match: no wind,Landing time (s),396.599,397.199,-0.2
+OR match: no wind,Landing drift (m),1522.143,1359.337,12.0
+OR match: medium wind,Apogee AGL (m),9488.724,9361.093,1.4
+OR match: medium wind,Apogee time (s),42.513,40.13,5.9
+OR match: medium wind,Max speed (m/s),564.255,666.835,-15.4
+OR match: medium wind,Max Mach,1.645,1.964,-16.3
+OR match: medium wind,Rail exit speed (m/s),21.555,26.783,-19.5
+OR match: medium wind,Landing time (s),393.891,395.222,-0.3
+OR match: medium wind,Landing drift (m),1527.119,1093.748,39.6
+OR match: high wind,Apogee AGL (m),9126.028,9240.079,-1.2
+OR match: high wind,Apogee time (s),41.587,39.7,4.8
+OR match: high wind,Max speed (m/s),564.025,665.939,-15.3
+OR match: high wind,Max Mach,1.647,1.967,-16.3
+OR match: high wind,Rail exit speed (m/s),21.555,26.78,-19.5
+OR match: high wind,Landing time (s),384.421,396.311,-3.0
+OR match: high wind,Landing drift (m),1452.441,167.857,765.3
